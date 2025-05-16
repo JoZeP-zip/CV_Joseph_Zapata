@@ -5,8 +5,7 @@
 **Profesión:** _Tecnologos en Analisis de Datos_
 
 ## 📞 Contacto
-- **Teléfono:** +57
-- **Email:** [zapatajoseph.cam@gmail.com](zapatajoseph.cam@gmail.com)
+- **Email:** [zapatajoseph.cam@gmail.com](maito:zapatajoseph.cam@gmail.com)
 
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2025 - Actualida)_
